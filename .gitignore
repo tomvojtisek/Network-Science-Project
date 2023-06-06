@@ -47,3 +47,7 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+similarity*
+Network Estimation/interimData/quiz_items.RDS
+Network Estimation/completeRawData.csv
+Network Estimation/features-survey-dataset.csv
